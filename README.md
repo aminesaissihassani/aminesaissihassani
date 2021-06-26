@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋,
+I am Amine Saissi Hassani from Morocco, a web developer student at <a href="https://youcode.ma/">YouCode</a> (<a href="https://simplon.co/">simplon.ma</a>).
+I really enjoy learning languages and frameworks, I’m currently learning PHP and Javascript.
+
+
 
 <!--
 **aminesaissihassani/aminesaissihassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
